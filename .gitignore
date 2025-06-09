@@ -11,6 +11,9 @@
 !.yarn/versions
 /.qodo
 
+#prisma 
+prisma/migrations/migration_lock.toml
+
 # testing
 /coverage
 
